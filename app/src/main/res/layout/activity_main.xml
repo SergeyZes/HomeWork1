@@ -37,7 +37,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="8dp"
-        android:text="Счетчик 1" />
+        android:text="Счетчик 3" />
 
     <Button
         android:id="@+id/btnCounter3"

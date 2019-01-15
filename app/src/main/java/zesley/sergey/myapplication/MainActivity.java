@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity implements MainView, View.On
 
     @Override
     public void onClick(View v) {
-        mPresenter.buttonClick(v.getId());
+        mPresenter.buttonClick(v.getId(),R.id.btnCounter1,R.id.btnCounter2,R.id.btnCounter3);
 
     }
 
